@@ -11,7 +11,6 @@ A data analytics project on daily operational counts from the U.S. Unaccompanied
 | Live Streamlit app | https://<your-app-name>.streamlit.app |
 | Power BI report (file) | [powerbi/UAC_Dashboard.pbix](powerbi/UAC_Dashboard.pbix) (open in Power BI Desktop) |
 | Power BI report (PDF preview) | [powerbi/UAC_Dashboard.pdf](powerbi/UAC_Dashboard.pdf) |
-| Power BI walkthrough video | <add link, or delete this row> |
 | Research paper | [reports/research_paper.pdf](reports/research_paper.pdf) |
 | Executive summary (1 page) | [reports/executive_summary.pdf](reports/executive_summary.pdf) |
 | Analysis notebook | [notebooks/UAC_Care_Load_Analytics.ipynb](notebooks/UAC_Care_Load_Analytics.ipynb) |
